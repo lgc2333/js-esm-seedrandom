@@ -1,6 +1,6 @@
 {
-  "name": "esm-seedrandom",
-  "version": "3.0.5",
+  "name": "@lgc2333/esm-seedrandom",
+  "version": "3.0.6",
   "description": "Explicitly seeded random number generator for JavaScript, ported to ES Modules. Compatible with original seedrandom CommonJS package.",
   "keywords": [
     "seed",
